@@ -1,4 +1,4 @@
-# Design-of-Toluene-Measurement-System-Based-on-Quartz-Crystal-Microbalance-QCM-Sensor-Coated-with-C
+# Developing a Frequency Measurement System of a Quartz Crystal Using Pierce Oscillator
 This project aims to design a measurement system of  toluene based on the frequency shift that occurs in a Quartz Crystal Microbalance (QCM) sensor that has been coated with Copper Phthalocyanine (CuPc). This system uses an Arduino Nano microcontroller as a data processing component Pierce oscillator as a QCM frequency measuring circuit, and DHT22 as a temperature and humidity sensor. 
 The measurement results are displayed on the LCD or laptop using the USB port on the tool system.
 # Instrumentation Design
